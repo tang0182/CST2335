@@ -2,4 +2,9 @@
 <resources><string name="app_name">AndroidLabs</string>
     <string name="hello_message">你好!</string>
     <string name="ButtonText">按钮</string>
+    <string name="LoginText">登陆</string>
+    <string name="password">密码</string>
+    <string name="RadioButton">单选按钮</string>
+    <string name="CheckBox">检查框</string>
+    <string name="SwitchText">这些是做什么的?</string>
 </resources>
