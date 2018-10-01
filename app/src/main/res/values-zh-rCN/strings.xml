@@ -7,4 +7,5 @@
     <string name="RadioButton">单选按钮</string>
     <string name="CheckBox">检查框</string>
     <string name="SwitchText">这些是做什么的?</string>
+    <string name="dialog_message">你想结束这个活动吗?</string>
 </resources>
